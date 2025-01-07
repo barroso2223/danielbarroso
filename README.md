@@ -62,9 +62,17 @@
 ---
 
 <h2>📫 Let's Connect</h2>
-<p>Email: [dannydevelops82@gmail.com](mailto:dannydevelops82@gmail.com)<br/>
-LinkedIn: [linkedin.com/in/daniel-barroso82/](https://linkedin.com/in/daniel-barroso82/)<br/>
-Portfolio: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)
+<p>## 📫 Let's Connect
+
+- **Email**: [dannydevelops82@gmail.com](mailto:dannydevelops82@gmail.com)  
+  ![Gmail Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg)
+
+- **LinkedIn**: [linkedin.com/in/daniel-barroso82/](https://linkedin.com/in/daniel-barroso82/)  
+  ![LinkedIn Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)
+
+- **Portfolio**: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)  
+  ![Web Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web/web-original.svg)
+
 </p>
 
 
