@@ -75,11 +75,10 @@ Portfolio💻: https://danielbarroso.netlify.app/
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+<p>
   <img src="https://raw.githubusercontent.com/barroso2223/barroso2223/output/snake.svg" alt="Snake animation" />
-</picture>
+</p>
+
 
 ---
 
