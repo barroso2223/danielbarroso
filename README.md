@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <img src="/images/myImage.png" alt="Daniel Barroso" width="150" style="border-radius: 50%;" />
-  <h1  style="align-items: center;">👋 Hi there, I'm Daniel Barroso!</h1>
+  <img src="/images/myImage.png" alt="Daniel Barroso" style="border-radius: 50%; width: 150; height: 150;" />
+  <h1>👋 Hi there, I'm Daniel Barroso!</h1>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
