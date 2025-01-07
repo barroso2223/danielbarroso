@@ -63,7 +63,8 @@
 
 <h2>📫 Let's Connect</h2>
 <p>
-Portfolio💻: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)
+Portfolio💻: Portfolio💻: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)
+
 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="LinkedIn logo">: [https://linkedin.com/in/daniel-barroso82/](https://linkedin.com/in/daniel-barroso82/)  
