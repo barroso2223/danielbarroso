@@ -2,13 +2,13 @@
 
 ###
 
-<div align="top-left">
+<div align="left">
   <img height="200" src="/images/myImage.png"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/barroso2223/count.svg?"  />
 </div>
 
@@ -50,7 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
 ###
