@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="/images/myImage.png"  />
+<img align="left" height="150" src="/images/myImage.png" border-radius: 50% />
 
 ###
 
