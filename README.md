@@ -1,4 +1,13 @@
-<p align="top-right">Hi 👋! My name is Daniel Barroso and I'm a Full-Stack Developer from Miami, Florida</p>
+<h1 align="right">Hi there, I'm Daniel Barroso! 👋</h1>
+<p align="right">I'm a Full-Stack Developer based in sunny Miami, Florida. I specialize in creating dynamic, scalable, and user-friendly applications, blending creativity with cutting-edge technologies to solve real-world problems.</p>
+
+<h2 align="right">🌟 About Me</h2>
+<p align="right">🔭 Currently working on: Building a website automation tool that generates dynamic wireframes and hosts websites on Netlify.<br/>
+🌱 Learning: Advanced Rasa for conversational AI and automation using free and open-source tools.<br/>
+👯 Looking to collaborate on: Open-source projects and tools for office and website automation.<br/>
+💬 Ask me about: Full-stack development, automation, and scaling web applications.<br/>
+⚡ Fun fact: I'm passionate about combining tech and creativity to build impactful solutions.
+
 
 ###
 
@@ -22,6 +31,7 @@
 ###
 
 <div align="left">
+<h2 align="left">🛠️ Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
