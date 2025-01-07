@@ -20,7 +20,7 @@
 ---
 
 <h2>📈 Stats</h2>
-<div style="align-item: center; display: flex; justify-content: space-evenly;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barroso2223&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barroso2223&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
@@ -62,9 +62,9 @@
 ---
 
 <h2>📫 Let's Connect</h2>
-<p>Email: [danielbarroso@example.com](mailto:danielbarroso@example.com)<br/>
-LinkedIn: [linkedin.com/in/danielbarroso](https://linkedin.com/in/danielbarroso)<br/>
-Portfolio: [danielbarroso.dev](https://danielbarroso.dev)
+<p>Email: [dannydevelops82@gmail.com](mailto:dannydevelops82@gmail.com)<br/>
+LinkedIn: [linkedin.com/in/daniel-barroso82/](https://linkedin.com/in/daniel-barroso82/)<br/>
+Portfolio: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)
 </p>
 
 
