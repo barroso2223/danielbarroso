@@ -1,12 +1,11 @@
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="/images/myImage.png" alt="Daniel Barroso" width="150" style="border-radius: 50%;" />
   <h1>👋 Hi there, I'm Daniel Barroso!</h1>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <p>
-    I'm a **Full-Stack Developer** based in sunny Miami, Florida. I specialize in creating dynamic, scalable, and user-friendly applications, blending creativity with cutting-edge technologies to solve real-world problems.
-  </p>
+<p>
+  I'm a <strong>Full-Stack Developer</strong> based in sunny Miami, Florida. I specialize in creating dynamic, scalable, and user-friendly applications, blending creativity with cutting-edge technologies to solve real-world problems.
+</p>
 
 ---
 
