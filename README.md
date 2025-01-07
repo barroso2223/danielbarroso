@@ -63,7 +63,8 @@
 
 <h2>📫 Let's Connect</h2>
 <p>
-Portfolio💻: Portfolio💻: [https://danielbarroso.netlify.app/](https://danielbarroso.netlify.app/)
+Portfolio💻: https://danielbarroso.netlify.app/
+
 
 
 <br/>
