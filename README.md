@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center; gap: 20px; border-radius: 50%;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <img src="/images/myImage.png" alt="Daniel Barroso" width="150" style="border-radius: 50%;" />
-  <h1  style="align-items: center;>👋 Hi there, I'm Daniel Barroso!</h1>
+  <h1  style="align-items: center;">👋 Hi there, I'm Daniel Barroso!</h1>
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -21,7 +21,7 @@
 ---
 
 <h2>📈 Stats</h2>
-<div align="center">
+<div style="align-item: center; display: flex; justify-content: space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api?username=barroso2223&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barroso2223&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
